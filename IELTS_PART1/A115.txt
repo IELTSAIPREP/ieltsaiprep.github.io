@@ -1,0 +1,10 @@
+
+
+The graph shows the overall numbers of tourist arrivals 
+in five countries between 1995 and 2010. In 1995 over 70 million tourists visited 
+the United States, more than twice as many as the next most popular destination 
+shown, France. However, between 2005 and 2010 there was a decrease of approximately 
+1,500,000 in the numbers going to the United States whereas there was an increase 
+of nearly 20 million tourists visiting France. The result was that in 2010 the number 
+of tourists arriving in the United States and France was almost equal at around 
+90 million each.

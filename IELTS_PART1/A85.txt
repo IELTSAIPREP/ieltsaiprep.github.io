@@ -1,0 +1,16 @@
+
+
+
+How Ocean Thermal Energy Conversion (OTEC) works
+Source: Daily Telegraph - 8th Jan 2008Ocean thermal energy conversion (OTEC) is a system that 
+converts heat energy into the electric power using the temperature difference between 
+surface seawater, which can be up to 29 degrees Celsius, and deep seawater, which 
+is only 5 degrees Celsius.The main components of the system are an evacuated evaporation 
+chamber, a turbine and a condensing chamber. The solar energy of the sun heats up 
+the surface water and this warm water is introduced into the evacuated evaporation 
+chamber, where it boils. As it boils, salt is deposited and water vapour is generated. 
+This vapour then drives a turbine to generate electricity. After it powers the turbine, 
+the water vapour enters the condensing chamber, which is cooled by the water from 
+the depths of the ocean. The water vapour is condensed in this chamber, producing 
+drinking water. Meanwhile, waste salt water is discharged into the ocean and the 
+process can be repeated.

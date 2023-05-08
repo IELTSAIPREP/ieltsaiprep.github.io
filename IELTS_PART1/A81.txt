@@ -1,0 +1,13 @@
+
+
+The graph gives information about Burnaby Public Library 
+between 2011 and 2014. It shows how many library books people read over this four-year 
+period.As can be seen from the graph, there were different trends 
+for men and women. The number of books read by men increased steadily between 2011 
+and 2012, from about 3000 to 4000. After that, the number rose dramatically to 14000 
+books in 2014. This was the highest figure in the period.Women started off reading more books than men, but their 
+numbers followed a different pattern. Between 2011 and 2012, there was an increase 
+of 3000 from 5000 books to 8000 books, and then a gradual rise to 10000 books in 
+2013. However, in 2014, their numbers fell back to 8000 again.Overall, there was a strong upward trend in the number of 
+books read by men. Although women read more books than men in 2011, their reading 
+fell to below the level of men in 2014.

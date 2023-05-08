@@ -1,0 +1,18 @@
+
+
+The table illustrates the performance of three different 
+branches of a chain of restaurants in three different locations in Vancouver for 
+the year 2016. It is evident that the best performer is the branch in Georgia Street, 
+which with 854 transactions a day on average has at least 100 more transactions 
+than Dunsmuir Street and more than double from Drake Street. Georgia Street is also 
+ahead in terms of average transaction value (ATV), with $10.69 per transaction compared 
+to Dunsmuir Street’s $5.61 and Drake Street’s $9.02.On average, eat-in and take-away transactions are almost 
+equal in each restaurant, with take-away transactions ending slightly ahead in two 
+of them. Drake Street is the only exception, with eat-in transactions surpassing 
+take-away by 10.The table also gives us information about the most popular 
+item in each branch, revealing that the eating habit of customers in each area are 
+widely varied: Georgia Street’s best seller is Chicken Burger, while Dunsmuir Street’s 
+customers favour Chicken Wings, and Drake Street’s customers prefer Chicken Pasta.Overall, it is clear that the Georgia Street’s branch is 
+the company’s most profitable branch, with the highest number of transactions and 
+ATV. Drake Street, on the other hand, lags far behind, despite the fact that its 
+ATV is higher than Dunsmuir Street.

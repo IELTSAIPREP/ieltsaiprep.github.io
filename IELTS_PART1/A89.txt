@@ -1,0 +1,15 @@
+
+
+The bar chart shows the unemployment rates among women in 
+the countries that make up the United Kingdom, both in 2013 and in 2014. There has 
+generally been a small decrease in female unemployment rates from 2013 to 2014, 
+except in Scotland.
+In 2013, 5.6% of women in Northern Ireland were unemployed. The only country with 
+a smaller percentage of women unemployed was Wales, with a rate of 5.4%. Both countries 
+saw a decrease in the percentage of unemployed women in 2014. In Northern Ireland, 
+the percentage fell to 4.6% and in Wales it fell to 5%.
+England had the greatest percentage of unemployed women in 2013, with 6.8%. However, 
+this decreased by 0.3% in 2014. Lastly, Scotland was the only country which had 
+an increasing percentage of unemployed women. In 2013, it had 6.1% of women out 
+of work. This increased to 6.7% in 2014, making it the country with the highest 
+female unemployment rate of the four countries.

@@ -1,0 +1,13 @@
+
+
+The bar chart illustrates the number of male and female 
+students studying Computer Science at a UK university over three years. It also 
+indicates whether they were home or international students. Compared to the number 
+of home students, the number of international students was significantly smaller. 
+Nevertheless, there was clear statistical growth in the latter group from 2010-2012. 
+Furthermore, the number of female home students eventually overtook the number of 
+males from the same group, reaching a high of 45 in 2012.The year 2011 saw the most dramatic developments; the number of male home students 
+fell from just below 40 to 24 and the number of females rose from 32 to 44. There 
+was also significant growth in the number of male students from overseas, climbing 
+from 20 in 2010 to 39 in 2012. Overall, we can see an upward trend in the number 
+of students at the university.

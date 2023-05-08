@@ -1,0 +1,19 @@
+
+	Generating electricity from sea waves
+
+The two diagrams show how electricity can be generated from 
+the rise and fall of water caused by sea waves.
+The process involves a structure which is mounted on the side of a cliff or sea 
+wall. This structure consists of a large chamber. One end is open to the sea, and 
+the other leads into a vertical column, which is open to the atmosphere. A turbine 
+is installed inside this column and this is used to generate the electricity in 
+two phases.
+The first diagram indicates that when a wave approaches the device, water is forced 
+into the chamber, applying pressure on the air within the column. This air escapes 
+to atmosphere through the turbine, thereby producing electricity.
+The second diagram illustrates the next part of the process when wave retreats. 
+As the water level falls, the air from outside the column is sucked back in through 
+the turbine. As a result, electricity continues to be generated. The turbine rotates 
+only in one direction, regardless of the direction of the air flow.
+In conclusion, we can see that this structure is useful as electricity is generated 
+in both phases: entering and retreating of water.

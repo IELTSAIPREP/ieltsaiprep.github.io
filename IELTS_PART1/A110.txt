@@ -1,0 +1,13 @@
+
+
+A gas-cooled nuclear reactor consists of the reactor itself 
+and a heat exchanger. The reactor contains uranium fuel elements which are surrounded 
+by graphite moderators and topped by charge tubes for loading fuel elements, and 
+boron control rods. The whole reactor is contained in a pressure vessel surrounded 
+by a concrete shield.From the reactor the hot gas flows through a duct into the heat exchanger which 
+is outside the concrete radiation shielding. In the heat exchanger, steam is generated 
+in a secondary loop. There a pipe brings in water which is heated to steam, and 
+this then flows out to the turbo-alternator. Meanwhile the hot gas sinks to the 
+bottom of the heat exchanger and passes through a gas blower which pushes it into 
+a cool gas duct and back to the reactor.As can be seen, this is a continuous cycle that keeps the reactor from overheating, 
+while carrying away the heat and steam, which will power the turbines.

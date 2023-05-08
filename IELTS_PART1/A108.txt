@@ -1,0 +1,12 @@
+
+
+The bar chart gives information about the gender of teachers 
+in six types of educational institutions in the UK in 2010. It shows what percentage 
+of teachers was male and what percentage was female.Women dominated the teaching profession in primary education, but less so at lower 
+and upper secondary education. It was particularly true of nursery school, where 
+the share of female teachers was above 95%. Similarly one-sided was the situation 
+in primary school, where over 90% of teachers were also female.At secondary and upper secondary level this pattern was less pronounced, where there 
+were nearly equal proportions of male and female teachers. On the other hand, male 
+teachers outnumbered female teachers in high-level education, where the proportion 
+of men was twice that for women.Overall, the higher the level of education, the more male teachers dominated, and 
+the reverse occurred with respect to female teachers.

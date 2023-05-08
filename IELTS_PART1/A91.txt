@@ -1,0 +1,11 @@
+The table compares four countries in terms of the number 
+of people who watch four different genres of film at the cinema: Action, Romance, 
+Comedy and Horror.The table indicates that more Indian people watch films 
+at the cinema than the other three nationalities. In all four countries, Action 
+is the most popular genre of film. The total number of viewers for action films 
+is nearly 30 million and in each country about 7-8 million people watch them.Not many people like watching horror films at the cinema compared to the other 
+genres of film. In India and Japan only 2-2.5 million people watch horror films 
+but they are more popular in New Zealand and Ireland. On the other hand, romance 
+films are very popular in India with 7.5 million viewers but it is not as popular 
+in the other countries. New Zealand and Japan come next with 4.5 million viewers 
+each.
