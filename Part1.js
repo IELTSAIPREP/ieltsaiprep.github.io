@@ -22,7 +22,7 @@ $(document).ready(function() {
   });
 
   $("#switchpart").click(function() {
-    window.location.href = "http://127.0.0.1:5500/part2.html";
+    window.location.href = "https://ieltswritingai.com/part2.html";
 });
 
 
