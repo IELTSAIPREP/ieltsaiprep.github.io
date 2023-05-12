@@ -1,0 +1,138 @@
+body {
+  background-color: #f3f3f3;
+  font-family: 'Open Sans', sans-serif;
+  margin: 30px;
+}
+
+.wrapper {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.intro {
+  margin: 30px 0;
+}
+
+p {
+  margin: 0;
+  font-size: 15px;
+  letter-spacing: 0.24px;
+}
+
+a {
+  color: rgb(255, 102, 0);
+  text-decoration: none;
+}
+
+main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  width: 100%;
+}
+
+section {
+  width: calc(50% - 15px);
+}
+
+textarea {
+  border-radius: 4px;
+  font-family: Monospace, 'Open Sans', sans-serif;
+  line-height: 18px;
+  letter-spacing: -0.24px;
+  font-size: 14px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 15px 15px 10px 15px;
+  width: 100%;
+  resize: none;
+  outline: none;
+  -webkit-transition: 0.24s;
+  -o-transition: 0.24s;
+  transition: 0.24s;
+  color: #333333;
+}
+
+textarea:focus {
+  border-color: #ffa451;
+}
+
+span {
+  width: 100%;
+  text-align: right;
+  display: block;
+  font-size: 13px;
+  letter-spacing: 0.52px;
+  font-weight: 600;
+  color: rgba(101, 15, 15, 0.6);
+  -webkit-transform: translate(0, -2px);
+  -ms-transform: translate(0, -2px);
+  transform: translate(0, -2px);
+}
+
+label {
+  text-transform: uppercase;
+  background-color: #f3f3f3;
+  -webkit-transform: translate(9px, 7px);
+  -ms-transform: translate(9px, 7px);
+  transform: translate(9px, 7px);
+  display: inline-block;
+  line-height: 10px;
+  padding: 0 8px;
+  font-size: 14px;
+  color: #222222;
+  font-weight: 600;
+  letter-spacing: 0.32px;
+}
+
+label {
+  background-color: #f3f3f3;
+  -webkit-transform: translate(14px, 7px);
+  -ms-transform: translate(14px, 7px);
+  transform: translate(14px, 7px);
+  display: inline-block;
+  line-height: 10px;
+  padding: 0 9px;
+}
+
+button {
+  border: none;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #ffc087;
+  text-transform: uppercase;
+  color: #650f0f;
+  font-weight: 600;
+  font-size: 14px;
+  margin: 10px 0 10px auto;
+  padding: 6px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  -webkit-transition: 0.275s;
+  -o-transition: 0.275s;
+  transition: 0.275s;
+  text-align: center;
+  width: 120px;
+  display: block;
+}
+
+button:hover {
+  background-color: #ffcfa3;
+  color: #333333;
+  letter-spacing: 1.12px
+}
+
+@media (max-width: 991px) {
+  main {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  section {
+    width: 100%;
+  }
+}

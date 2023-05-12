@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>IELTS writing PART 1</title>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="./Loading.css">
+  <link rel="stylesheet" href="./Changepart.css">
+  <link rel="stylesheet" href="./LoadAnimation.css">
+
+</head>
+<body>
+  
+<!-- <p style="" id="version"></p> -->
+<button id="switchpart">Part 2</button>
+<div class="wrapper">
+  <div class="intro">
+   <div id="image-container">
+    <img id="myImage" src="" alt="A description of the image">
+</div>
+    <div class="container" id="Load">
+      <div class="loading">
+        <div class="loading__letter">L</div>
+        <div class="loading__letter">o</div>
+        <div class="loading__letter">a</div>
+        <div class="loading__letter">d</div>
+        <div class="loading__letter">i</div>
+        <div class="loading__letter">n</div>
+        <div class="loading__letter">g</div>
+        <div class="loading__letter">.</div>
+        <div class="loading__letter">.</div>
+        <div class="loading__letter">.</div>
+      </div>
+    </div>
+    <p style="color: #424964; font-size: 100%;" id="part1Question"></p>
+  </div>
+
+  <main class="container">
+  
+
+    <section>
+      <label for="input">INPUT</label>
+      <textarea name="" id="input" rows="25" spellcheck="false" oninput="count()" placeholder="Write your essay here" maxlength="5000">
+</textarea>
+      <span></span>
+    </section>
+    <div class='loader'></div>
+    <section>
+      <label for="output">Output</label>
+        <!-- [25/Jan/2019] https://news.ycombinator.com/item?id=18998810 -->
+
+      <textarea name="" id="output" rows="25" spellcheck="false" maxlength="5000">
+</textarea>
+    </section>
+  </main>
+  <button id="Evaluate" >Evaluate</button>
+</div>
+<!-- partial -->
+  <script  src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script  src="./script.js"></script>
+  <script  src="./Part1.js"></script>
+  <script  src="./version.js"></script>
+</body>
+</html>
