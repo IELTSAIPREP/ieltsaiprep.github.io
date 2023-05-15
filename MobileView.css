@@ -48,5 +48,13 @@ textarea
 textarea{
   line-height: 1;
 }
+#part1Question{
+
+  font-size: 60px !important;
+}
+#part2Question{
+
+  font-size: 60px !important;
+}
 }
 
