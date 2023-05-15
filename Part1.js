@@ -22,14 +22,14 @@ $(document).ready(function() {
   });
 
   $("#switchpart").click(function() {
-    window.location.href = "https://ieltswritingai.com/part2.html";
+    window.location.href = "https://ieltswritingai.com/Part2.html";
 });
 
 
   function GETPART1Q(ee)
   {
     $.ajax({
-      url: "https://ieltsaiprep.github.io/IELTS_PART1/"+ee+".txt",
+      url: "https://ieltswritingai.com/IELTS_PART1/"+ee+".txt",
       type: "GET",
       dataType: "text",
       success: function(data) {
@@ -55,7 +55,7 @@ $(document).ready(function() {
   function GETPART1IMG(ee)
  {
 var image = $("#myImage");
-image.attr("src", "https://ieltsaiprep.github.io/IELTS_PART1/"+ee+".jpg");
+image.attr("src", "https://ieltswritingai.com/IELTS_PART1/"+ee+".jpg");
 image.attr("alt", "New Image");
   }
 
