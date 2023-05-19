@@ -6,7 +6,7 @@ $(document).ready(function() {
       $(".loader").show();
       var input=$("#input").val();
       $.ajax({
-        url: "https://pythonapi-mu.vercel.app/Evaluate?param1="+input,
+        url: "http://ieltsaiprep.pythonanywhere.com/Evaluate?param1="+input,
         type: "GET",
         dataType: "json",
         success: function(data) {
