@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" >
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>IELTS writing Part 1</title>
@@ -11,65 +11,63 @@
   <link rel="stylesheet" href="./Changepart.css">
   <link rel="stylesheet" href="./LoadAnimation.css">
   <link rel="stylesheet" href="./MobileView.css">
-
   
-
+  <!-- SEO: Open Graph tags -->
+  <meta property="og:title" content="IELTS writing Part 1">
+  <meta property="og:description" content="IELTS Writing AI is an innovative tool that uses artificial intelligence to help individuals prepare for the IELTS writing test. With its advanced algorithms, IELTS Writing AI provides personalized feedback on grammar, vocabulary, and sentence structure, enabling users to improve their writing skills and achieve their desired band score. The platform features a user-friendly interface that allows for easy navigation and a seamless experience. Whether you are a beginner or an advanced English learner, IELTS Writing AI is a powerful tool that can help you succeed on the IELTS writing test.">
+  
+  <!-- SEO: Twitter Card tags -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="IELTS writing Part 1">
+  <meta name="twitter:description" content="IELTS Writing AI is an innovative tool that uses artificial intelligence to help individuals prepare for the IELTS writing test. With its advanced algorithms, IELTS Writing AI provides personalized feedback on grammar, vocabulary, and sentence structure, enabling users to improve their writing skills and achieve their desired band score. The platform features a user-friendly interface that allows for easy navigation and a seamless experience. Whether you are a beginner or an advanced English learner, IELTS Writing AI is a powerful tool that can help you succeed on the IELTS writing test.">
+  
 </head>
 <body>
   <div class="iconcenter">
-    <a class="icontop" class="icontop bubble-element Text cmaNaKaY">IeltsWritingAI.com <font color="#3273DC">Part 1</font></a>
-    <!-- <a href="index.html" class="icontop">ieltswritingai.com</a>
-    class="bubble-element Text cmaNaKaY" -->
-    </div>
-  
-<!-- <p style="" id="version"></p> -->
-<button style="width:10%;" id="switchpart">GoTo Part 2</button>
-<div class="wrapper">
-  <div class="intro">
-   <div id="image-container">
-    <img id="myImage" src="" alt="A description of the image">
-</div>
-    <div class="container" id="Load">
-      <div class="loading">
-        <div class="loading__letter">L</div>
-        <div class="loading__letter">o</div>
-        <div class="loading__letter">a</div>
-        <div class="loading__letter">d</div>
-        <div class="loading__letter">i</div>
-        <div class="loading__letter">n</div>
-        <div class="loading__letter">g</div>
-        <div class="loading__letter">.</div>
-        <div class="loading__letter">.</div>
-        <div class="loading__letter">.</div>
-      </div>
-    </div>
-    <p style="color: #424964; font-size: 100%;" id="part1Question"></p>
+    <a class="icontop bubble-element Text cmaNaKaY">IeltsWritingAI.com <font color="#3273DC">Part 1</font></a>
   </div>
-
-  <main class="container">
   
+  <button style="width:10%;" id="switchpart">GoTo Part 2</button>
+  <div class="wrapper">
+    <div class="intro">
+      <div id="image-container">
+        <img id="myImage" src="" alt="A description of the image">
+      </div>
+      <div class="container" id="Load">
+        <div class="loading">
+          <div class="loading__letter">L</div>
+          <div class="loading__letter">o</div>
+          <div class="loading__letter">a</div>
+          <div class="loading__letter">d</div>
+          <div class="loading__letter">i</div>
+          <div class="loading__letter">n</div>
+          <div class="loading__letter">g</div>
+          <div class="loading__letter">.</div>
+          <div class="loading__letter">.</div>
+          <div class="loading__letter">.</div>
+        </div>
+      </div>
+      <p style="color: #424964; font-size: 100%;" id="part1Question"></p>
+    </div>
 
-    <section>
-      <label for="input">INPUT</label>
-      <textarea name="" id="input" rows="25" spellcheck="false" oninput="count()" placeholder="Write your essay here" maxlength="5000">
-</textarea>
-      <span class="tcount"></span>
-    </section>
-    <div class='loader'></div>
-    <section>
-      <label for="output">Output</label>
-        <!-- [25/Jan/2019] https://news.ycombinator.com/item?id=18998810 -->
-
-      <textarea name="" id="output" rows="25" spellcheck="false" maxlength="5000">
-</textarea>
-    </section>
-  </main>
-  <button id="Evaluate" >Evaluate</button>
-</div>
-<!-- partial -->
-  <script  src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <script  src="./script.js"></script>
-  <script  src="./Part1.js"></script>
-  <script  src="./version.js"></script>
+    <main class="container">
+      <section>
+        <label for="input">INPUT</label>
+        <textarea name="" id="input" rows="25" spellcheck="false" oninput="count()" placeholder="Write your essay here" maxlength="5000"></textarea>
+        <span class="tcount"></span>
+      </section>
+      <div class='loader'></div>
+      <section>
+        <label for="output">Output</label>
+        <textarea name="" id="output" rows="25" spellcheck="false" maxlength="5000"></textarea>
+      </section>
+    </main>
+    <button id="Evaluate">Evaluate</button>
+  </div>
+  
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="./script.js"></script>
+  <script src="./Part1.js"></script>
+  <script src="./version.js"></script>
 </body>
 </html>

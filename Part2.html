@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" >
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>IELTS writing Part 2</title>
@@ -12,51 +12,57 @@
   <link rel="stylesheet" href="./LoadAnimation.css">
   <link rel="stylesheet" href="./MobileView.css">
 
+  <!-- SEO: Open Graph tags -->
+  <meta property="og:title" content="IELTS writing Part 2">
+  <meta property="og:description" content="IELTS Writing AI is an advanced platform that offers comprehensive support for IELTS writing test takers. With its cutting-edge technology, the tool can analyze users' writing skills and provide tailored feedback on their strengths and weaknesses, helping them to enhance their writing abilities and excel on the test. The system's machine learning algorithms can identify common mistakes, such as grammar errors and sentence structure issues, and suggest corrections, thereby improving the user's overall writing quality. Furthermore, IELTS Writing AI is designed to be user-friendly and intuitive, making it accessible to anyone looking to improve their IELTS writing scores. Whether you're an ESL student or a non-native English speaker, IELTS Writing AI is a valuable resource for mastering the IELTS writing test.">
+
+  <!-- SEO: Twitter Card tags -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="IELTS writing Part 2">
+  <meta name="twitter:description" content="IELTS Writing AI is an advanced platform that offers comprehensive support for IELTS writing test takers. With its cutting-edge technology, the tool can analyze users' writing skills and provide tailored feedback on their strengths and weaknesses, helping them to enhance their writing abilities and excel on the test. The system's machine learning algorithms can identify common mistakes, such as grammar errors and sentence structure issues, and suggest corrections, thereby improving the user's overall writing quality. Furthermore, IELTS Writing AI is designed to be user-friendly and intuitive, making it accessible to anyone looking to improve their IELTS writing scores. Whether you're an ESL student or a non-native English speaker, IELTS Writing AI is a valuable resource for mastering the IELTS writing test.">
 </head>
 <body>
   <div class="iconcenter">
-    <a class="icontop" class="icontop bubble-element Text cmaNaKaY">IeltsWritingAI.com <font color="#3273DC">Part 2</font></a>
-    </div>
-  <!-- <p style="" id="version"></p> -->
-<button style="width:10%;"  id="switchpart">GoTo Part 1</button>
-<div class="wrapper">
-  <div class="intro">
-    <div class="container" id="Load">
-      <div class="loading">
-        <div class="loading__letter">L</div>
-        <div class="loading__letter">o</div>
-        <div class="loading__letter">a</div>
-        <div class="loading__letter">d</div>
-        <div class="loading__letter">i</div>
-        <div class="loading__letter">n</div>
-        <div class="loading__letter">g</div>
-        <div class="loading__letter">.</div>
-        <div class="loading__letter">.</div>
-        <div class="loading__letter">.</div>
-      </div>
-    </div>
-    <p style="color: #424964; font-size: 100%;" id="part2Question"></p>
+    <a class="icontop bubble-element Text cmaNaKaY">IeltsWritingAI.com <font color="#3273DC">Part 2</font></a>
   </div>
+  <button style="width:10%;" id="switchpart">GoTo Part 1</button>
+  <div class="wrapper">
+    <div class="intro">
+      <div class="container" id="Load">
+        <div class="loading">
+          <div class="loading__letter">L</div>
+          <div class="loading__letter">o</div>
+          <div class="loading__letter">a</div>
+          <div class="loading__letter">d</div>
+          <div class="loading__letter">i</div>
+          <div class="loading__letter">n</div>
+          <div class="loading__letter">g</div>
+          <div class="loading__letter">.</div>
+          <div class="loading__letter">.</div>
+          <div class="loading__letter">.</div>
+        </div>
+      </div>
+      <p style="color: #424964; font-size: 100%;" id="part2Question"></p>
+    </div>
 
-  <main class="container">
-    <section>
-      <label for="input">INPUT</label>
-      <textarea name="" id="input" rows="25" spellcheck="false" oninput="count()" placeholder="Write your essay here" maxlength="5000">
-</textarea>
-<span class="tcount"></span>
-</section>
-    <div class='loader'></div>
-    <section>
-      <label for="output">Output</label>
-      <textarea name="" id="output" rows="25" spellcheck="false" maxlength="5000">
-</textarea>
-    </section>
-  </main>
-  <button id="Evaluate" >Evaluate</button>
-</div>
-  <script  src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <script  src="./script.js"></script>
-  <script  src="./Part2.js"></script>
-  <script  src="./version.js"></script>
+    <main class="container">
+      <section>
+        <label for="input">INPUT</label>
+        <textarea name="" id="input" rows="25" spellcheck="false" oninput="count()" placeholder="Write your essay here" maxlength="5000"></textarea>
+        <span class="tcount"></span>
+      </section>
+      <div class='loader'></div>
+      <section>
+        <label for="output">Output</label>
+        <textarea name="" id="output" rows="25" spellcheck="false" maxlength="5000"></textarea>
+      </section>
+    </main>
+    <button id="Evaluate">Evaluate</button>
+  </div>
+  
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="./script.js"></script>
+  <script src="./Part2.js"></script>
+  <script src="./version.js"></script>
 </body>
 </html>
